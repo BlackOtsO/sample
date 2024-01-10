@@ -1,1 +1,6 @@
-
+public class te
+{
+public static void main(String[]args)
+{
+Scanner o=new Scanner(System.in);
+}}
